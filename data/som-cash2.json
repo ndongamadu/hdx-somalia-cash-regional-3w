@@ -1,0 +1,863 @@
+[
+  {
+    "Region": "Awdal",
+    "Adm1": 11,
+    "organization": "Concern",
+    "Individual beneficiaries reached": 2400,
+    "what": "cash"
+  },
+  {
+    "Region": "Awdal",
+    "Adm1": 11,
+    "organization": "World Vision",
+    "Individual beneficiaries reached": 10866,
+    "what": "cash"
+  },
+  {
+    "Region": "Awdal",
+    "Adm1": 11,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 11076,
+    "what": "cash"
+  },
+  {
+    "Region": "Awdal",
+    "Adm1": 11,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 3600,
+    "what": "cash"
+  },
+  {
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 19000,
+    "what": "cash"
+  },
+  {
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "ACF",
+    "Individual beneficiaries reached": 46750,
+    "what": "cash"
+  },
+  {
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "SOYID",
+    "Individual beneficiaries reached": 3000,
+    "what": "cash"
+  },
+  {
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "World Vision",
+    "Individual beneficiaries reached": 4800,
+    "what": "cash"
+  },
+  {
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 11609,
+    "what": "cash"
+  },
+  {
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 10844,
+    "what": "cash"
+  },
+  {
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "Qatar charity",
+    "Individual beneficiaries reached": 390,
+    "what": "cash"
+  },
+  {
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "Other",
+    "Individual beneficiaries reached": 7458,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 22500,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "ACF",
+    "Individual beneficiaries reached": 18802,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "Concern",
+    "Individual beneficiaries reached": 20160,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "DKH",
+    "Individual beneficiaries reached": 12720,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 14954,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 1660,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 11356,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "Qatar Charity",
+    "Individual beneficiaries reached": 5463,
+    "what": "cash"
+  },
+  {
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "IOM",
+    "Individual beneficiaries reached": 2840,
+    "what": "cash"
+  },
+  {
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 22514,
+    "what": "cash"
+  },
+  {
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 23712,
+    "what": "cash"
+  },
+  {
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "ADA (FAO)",
+    "Individual beneficiaries reached": 60,
+    "what": "cash"
+  },
+  {
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "CARE",
+    "Individual beneficiaries reached": 530,
+    "what": "cash"
+  },
+  {
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "IRC",
+    "Individual beneficiaries reached": 2220,
+    "what": "cash"
+  },
+  {
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 7200,
+    "what": "cash"
+  },
+  {
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 75715,
+    "what": "cash"
+  },
+  {
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 3894,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 53400,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "Concern",
+    "Individual beneficiaries reached": 33342,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 3832,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "ACTED",
+    "Individual beneficiaries reached": 10962,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "SDIO",
+    "Individual beneficiaries reached": 3000,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 20976,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 12252,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 15000,
+    "what": "cash"
+  },
+  {
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "Qatar charity",
+    "Individual beneficiaries reached": 482,
+    "what": "cash"
+  },
+  {
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 19800,
+    "what": "cash"
+  },
+  {
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 16186,
+    "what": "cash"
+  },
+  {
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "Qatar charity",
+    "Individual beneficiaries reached": 291,
+    "what": "cash"
+  },
+  {
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "Agro-pastoral charity",
+    "Individual beneficiaries reached": 2280,
+    "what": "cash"
+  },
+  {
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 3600,
+    "what": "cash"
+  },
+  {
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 7963,
+    "what": "cash"
+  },
+  {
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "ACTED",
+    "Individual beneficiaries reached": 1800,
+    "what": "cash"
+  },
+  {
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "Other",
+    "Individual beneficiaries reached": 24594,
+    "what": "cash"
+  },
+  {
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "Concern",
+    "Individual beneficiaries reached": 16296,
+    "what": "cash"
+  },
+  {
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 91689,
+    "what": "cash"
+  },
+  {
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "COOPI",
+    "Individual beneficiaries reached": 1500,
+    "what": "cash"
+  },
+  {
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 16920,
+    "what": "cash"
+  },
+  {
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "RAAS (FAO)",
+    "Individual beneficiaries reached": 6250,
+    "what": "cash"
+  },
+  {
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 394,
+    "what": "cash"
+  },
+  {
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 24510,
+    "what": "cash"
+  },
+  {
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "Qatar charity",
+    "Individual beneficiaries reached": 287,
+    "what": "cash"
+  },
+  {
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "Agency for Peace and Development",
+    "Individual beneficiaries reached": 1750,
+    "what": "cash"
+  },
+  {
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 18660,
+    "what": "cash"
+  },
+  {
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "DKH",
+    "Individual beneficiaries reached": 23100,
+    "what": "cash"
+  },
+  {
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 10883,
+    "what": "cash"
+  },
+  {
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "DRC",
+    "Individual beneficiaries reached": 264,
+    "what": "cash"
+  },
+  {
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "Other",
+    "Individual beneficiaries reached": 10236,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "ADESO",
+    "Individual beneficiaries reached": 21000,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 8400,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "DRC",
+    "Individual beneficiaries reached": 330,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "Other",
+    "Individual beneficiaries reached": 16621,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "Solidarites",
+    "Individual beneficiaries reached": 6330,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 19888,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "ACTED",
+    "Individual beneficiaries reached": 12000,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "CARE",
+    "Individual beneficiaries reached": 5045,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "SIF",
+    "Individual beneficiaries reached": 1715,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 12780,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 29532,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "WRRS",
+    "Individual beneficiaries reached": 3000,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "Southern Aid",
+    "Individual beneficiaries reached": 2220,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "Concern",
+    "Individual beneficiaries reached": 9600,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "DRC",
+    "Individual beneficiaries reached": 408,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "Qatar charity",
+    "Individual beneficiaries reached": 225,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 1335,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "Other",
+    "Individual beneficiaries reached": 6,
+    "what": "cash"
+  },
+  {
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "Swisso kalmo",
+    "Individual beneficiaries reached": 6000,
+    "what": "cash"
+  },
+  {
+    "Region": "Middle Juba",
+    "Adm1": 27,
+    "organization": "Other",
+    "Individual beneficiaries reached": "",
+    "what": "cash"
+  },
+  {
+    "Region": "Middle Shabelle",
+    "Adm1": 21,
+    "organization": "Qatar charity",
+    "Individual beneficiaries reached": 250,
+    "what": "cash"
+  },
+  {
+    "Region": "Middle Shabelle",
+    "Adm1": 21,
+    "organization": "WOCCA",
+    "Individual beneficiaries reached": 5165,
+    "what": "cash"
+  },
+  {
+    "Region": "Middle Shabelle",
+    "Adm1": 21,
+    "organization": "SORRDO",
+    "Individual beneficiaries reached": 34704,
+    "what": "cash"
+  },
+  {
+    "Region": "Middle Shabelle",
+    "Adm1": 21,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 7974,
+    "what": "cash"
+  },
+  {
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "IRC",
+    "Individual beneficiaries reached": 6142,
+    "what": "cash"
+  },
+  {
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 3000,
+    "what": "cash"
+  },
+  {
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "DRC",
+    "Individual beneficiaries reached": 2700,
+    "what": "cash"
+  },
+  {
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 50319,
+    "what": "cash"
+  },
+  {
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 176,
+    "what": "cash"
+  },
+  {
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "ADESO",
+    "Individual beneficiaries reached": 28105,
+    "what": "cash"
+  },
+  {
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 22610,
+    "what": "cash"
+  },
+  {
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 1008,
+    "what": "cash"
+  },
+  {
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 6600,
+    "what": "cash"
+  },
+  {
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 9652,
+    "what": "cash"
+  },
+  {
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "ACF",
+    "Individual beneficiaries reached": 5700,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "ADESO",
+    "Individual beneficiaries reached": 8827,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "ACTED",
+    "Individual beneficiaries reached": 15000,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "CARE",
+    "Individual beneficiaries reached": 530,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 5700,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "APD",
+    "Individual beneficiaries reached": 1200,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 20539,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "DRC",
+    "Individual beneficiaries reached": 366,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "IRC",
+    "Individual beneficiaries reached": 3600,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 7590,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 44841,
+    "what": "cash"
+  },
+  {
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "World Concern",
+    "Individual beneficiaries reached": 6690,
+    "what": "cash"
+  },
+  {
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 17561,
+    "what": "cash"
+  },
+  {
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "CARE",
+    "Individual beneficiaries reached": 840,
+    "what": "cash"
+  },
+  {
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "NRC",
+    "Individual beneficiaries reached": 17561,
+    "what": "cash"
+  },
+  {
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 6721,
+    "what": "cash"
+  },
+  {
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "World Concern",
+    "Individual beneficiaries reached": 2730,
+    "what": "cash"
+  },
+  {
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 47179,
+    "what": "cash"
+  },
+  {
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "IRC",
+    "Individual beneficiaries reached": 1800,
+    "what": "cash"
+  },
+  {
+    "Region": "Toghdeer",
+    "Adm1": 13,
+    "organization": "Concern",
+    "Individual beneficiaries reached": 3300,
+    "what": "cash"
+  },
+  {
+    "Region": "Toghdeer",
+    "Adm1": 13,
+    "organization": "SCI",
+    "Individual beneficiaries reached": 2100,
+    "what": "cash"
+  },
+  {
+    "Region": "Toghdeer",
+    "Adm1": 13,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 7200,
+    "what": "cash"
+  },
+  {
+    "Region": "Toghdeer",
+    "Adm1": 13,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 13032,
+    "what": "cash"
+  },
+  {
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "Concern",
+    "Individual beneficiaries reached": 1200,
+    "what": "cash"
+  },
+  {
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "APD",
+    "Individual beneficiaries reached": 3388,
+    "what": "cash"
+  },
+  {
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "UNHCR",
+    "Individual beneficiaries reached": 4800,
+    "what": "cash"
+  },
+  {
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "World Relief",
+    "Individual beneficiaries reached": 600,
+    "what": "cash"
+  },
+  {
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "FAO",
+    "Individual beneficiaries reached": 3846,
+    "what": "cash"
+  },
+  {
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "WFP",
+    "Individual beneficiaries reached": 8342,
+    "what": "cash"
+  }
+]
