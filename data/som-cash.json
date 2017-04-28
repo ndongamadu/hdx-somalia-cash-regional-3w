@@ -1,740 +1,986 @@
 [
   {
-    "Region": "Awdal",
-    "Adm1": 11,
-    "organization": "Concern",
-    "Individual beneficiaries reached": 2400
-  },
-  {
-    "Region": "Awdal",
-    "Adm1": 11,
-    "organization": "World Vision",
-    "Individual beneficiaries reached": 10866
-  },
-  {
-    "Region": "Awdal",
-    "Adm1": 11,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 11076
-  },
-  {
-    "Region": "Awdal",
-    "Adm1": 11,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 3600
-  },
-  {
-    "Region": "Bakool",
-    "Adm1": 25,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 19000
-  },
-  {
+    "org_id": 1,
     "Region": "Bakool",
     "Adm1": 25,
     "organization": "ACF",
-    "Individual beneficiaries reached": 46750
+    "reached": 46750,
+    "count": 1
   },
   {
-    "Region": "Bakool",
-    "Adm1": 25,
-    "organization": "SOYID",
-    "Individual beneficiaries reached": 3000
-  },
-  {
-    "Region": "Bakool",
-    "Adm1": 25,
-    "organization": "World Vision",
-    "Individual beneficiaries reached": 4800
-  },
-  {
-    "Region": "Bakool",
-    "Adm1": 25,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 11609
-  },
-  {
-    "Region": "Bakool",
-    "Adm1": 25,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 10844
-  },
-  {
-    "Region": "Bakool",
-    "Adm1": 25,
-    "organization": "Qatar charity",
-    "Individual beneficiaries reached": 390
-  },
-  {
-    "Region": "Bakool",
-    "Adm1": 25,
-    "organization": "Other",
-    "Individual beneficiaries reached": 7458
-  },
-  {
-    "Region": "Banadir",
-    "Adm1": 22,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 22500
-  },
-  {
+    "org_id": 1,
     "Region": "Banadir",
     "Adm1": 22,
     "organization": "ACF",
-    "Individual beneficiaries reached": 18802
+    "reached": 18802,
+    "count": 1
   },
   {
-    "Region": "Banadir",
-    "Adm1": 22,
-    "organization": "Concern",
-    "Individual beneficiaries reached": 20160
+    "org_id": 1,
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "ACF",
+    "reached": 5700,
+    "count": 1
   },
   {
-    "Region": "Banadir",
-    "Adm1": 22,
-    "organization": "DKH",
-    "Individual beneficiaries reached": 12720
+    "org_id": 2,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "ACTED",
+    "reached": 10962,
+    "count": 1
   },
   {
-    "Region": "Banadir",
-    "Adm1": 22,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 14954
+    "org_id": 2,
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "ACTED",
+    "reached": 1800,
+    "count": 1
   },
   {
-    "Region": "Banadir",
-    "Adm1": 22,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 1660
+    "org_id": 2,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "ACTED",
+    "reached": 12000,
+    "count": 1
   },
   {
-    "Region": "Banadir",
-    "Adm1": 22,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 11356
+    "org_id": 2,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "ACTED",
+    "reached": 15000,
+    "count": 1
   },
   {
-    "Region": "Banadir",
-    "Adm1": 22,
-    "organization": "Qatar Charity",
-    "Individual beneficiaries reached": 5463
-  },
-  {
-    "Region": "Banadir",
-    "Adm1": 22,
-    "organization": "IOM",
-    "Individual beneficiaries reached": 2840
-  },
-  {
-    "Region": "Bari",
-    "Adm1": 16,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 22514
-  },
-  {
-    "Region": "Bari",
-    "Adm1": 16,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 23712
-  },
-  {
+    "org_id": 3,
     "Region": "Bari",
     "Adm1": 16,
     "organization": "ADA (FAO)",
-    "Individual beneficiaries reached": 60
+    "reached": 60,
+    "count": 1
   },
   {
-    "Region": "Bari",
-    "Adm1": 16,
-    "organization": "CARE",
-    "Individual beneficiaries reached": 530
+    "org_id": 4,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "ADESO",
+    "reached": 21000,
+    "count": 1
   },
   {
-    "Region": "Bari",
-    "Adm1": 16,
-    "organization": "IRC",
-    "Individual beneficiaries reached": 2220
+    "org_id": 4,
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "ADESO",
+    "reached": 28105,
+    "count": 1
   },
   {
-    "Region": "Bari",
-    "Adm1": 16,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 7200
+    "org_id": 4,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "ADESO",
+    "reached": 8827,
+    "count": 1
   },
   {
-    "Region": "Bari",
-    "Adm1": 16,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 75715
-  },
-  {
-    "Region": "Bari",
-    "Adm1": 16,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 3894
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 53400
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "Concern",
-    "Individual beneficiaries reached": 33342
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 3832
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "ACTED",
-    "Individual beneficiaries reached": 10962
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "SDIO",
-    "Individual beneficiaries reached": 3000
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 20976
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 12252
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 15000
-  },
-  {
-    "Region": "Bay",
-    "Adm1": 24,
-    "organization": "Qatar charity",
-    "Individual beneficiaries reached": 482
-  },
-  {
-    "Region": "Galgaduud",
-    "Adm1": 19,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 19800
-  },
-  {
-    "Region": "Galgaduud",
-    "Adm1": 19,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 16186
-  },
-  {
-    "Region": "Galgaduud",
-    "Adm1": 19,
-    "organization": "Qatar charity",
-    "Individual beneficiaries reached": 291
-  },
-  {
-    "Region": "Galgaduud",
-    "Adm1": 19,
-    "organization": "Agro-pastoral charity",
-    "Individual beneficiaries reached": 2280
-  },
-  {
-    "Region": "Galgaduud",
-    "Adm1": 19,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 3600
-  },
-  {
-    "Region": "Galgaduud",
-    "Adm1": 19,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 7963
-  },
-  {
-    "Region": "Gedo",
-    "Adm1": 26,
-    "organization": "ACTED",
-    "Individual beneficiaries reached": 1800
-  },
-  {
-    "Region": "Gedo",
-    "Adm1": 26,
-    "organization": "Other",
-    "Individual beneficiaries reached": 24594
-  },
-  {
-    "Region": "Gedo",
-    "Adm1": 26,
-    "organization": "Concern",
-    "Individual beneficiaries reached": 16296
-  },
-  {
-    "Region": "Gedo",
-    "Adm1": 26,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 91689
-  },
-  {
-    "Region": "Gedo",
-    "Adm1": 26,
-    "organization": "COOPI",
-    "Individual beneficiaries reached": 1500
-  },
-  {
-    "Region": "Gedo",
-    "Adm1": 26,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 16920
-  },
-  {
-    "Region": "Gedo",
-    "Adm1": 26,
-    "organization": "RAAS (FAO)",
-    "Individual beneficiaries reached": 6250
-  },
-  {
-    "Region": "Gedo",
-    "Adm1": 26,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 394
-  },
-  {
-    "Region": "Hiraan",
-    "Adm1": 20,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 24510
-  },
-  {
-    "Region": "Hiraan",
-    "Adm1": 20,
-    "organization": "Qatar charity",
-    "Individual beneficiaries reached": 287
-  },
-  {
+    "org_id": 5,
     "Region": "Hiraan",
     "Adm1": 20,
     "organization": "Agency for Peace and Development",
-    "Individual beneficiaries reached": 1750
+    "reached": 1750,
+    "count": 1
   },
   {
-    "Region": "Hiraan",
-    "Adm1": 20,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 18660
+    "org_id": 6,
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "Agro-pastoral charity",
+    "reached": 2280,
+    "count": 1
   },
   {
+    "org_id": 7,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "APD",
+    "reached": 1200,
+    "count": 1
+  },
+  {
+    "org_id": 7,
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "APD",
+    "reached": 3388,
+    "count": 1
+  },
+  {
+    "org_id": 8,
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "CARE",
+    "reached": 530,
+    "count": 1
+  },
+  {
+    "org_id": 8,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "CARE",
+    "reached": 5045,
+    "count": 1
+  },
+  {
+    "org_id": 8,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "CARE",
+    "reached": 530,
+    "count": 1
+  },
+  {
+    "org_id": 8,
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "CARE",
+    "reached": 840,
+    "count": 1
+  },
+  {
+    "org_id": 9,
+    "Region": "Awdal",
+    "Adm1": 11,
+    "organization": "Concern",
+    "reached": 2400,
+    "count": 1
+  },
+  {
+    "org_id": 9,
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "Concern",
+    "reached": 20160,
+    "count": 1
+  },
+  {
+    "org_id": 9,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "Concern",
+    "reached": 33342,
+    "count": 1
+  },
+  {
+    "org_id": 9,
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "Concern",
+    "reached": 16296,
+    "count": 1
+  },
+  {
+    "org_id": 9,
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "Concern",
+    "reached": 9600,
+    "count": 1
+  },
+  {
+    "org_id": 9,
+    "Region": "Toghdeer",
+    "Adm1": 13,
+    "organization": "Concern",
+    "reached": 3300,
+    "count": 1
+  },
+  {
+    "org_id": 9,
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "Concern",
+    "reached": 1200,
+    "count": 1
+  },
+  {
+    "org_id": 10,
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "COOPI",
+    "reached": 1500,
+    "count": 1
+  },
+  {
+    "org_id": 11,
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "DKH",
+    "reached": 12720,
+    "count": 1
+  },
+  {
+    "org_id": 11,
     "Region": "Hiraan",
     "Adm1": 20,
     "organization": "DKH",
-    "Individual beneficiaries reached": 23100
+    "reached": 23100,
+    "count": 1
   },
   {
-    "Region": "Hiraan",
-    "Adm1": 20,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 10883
-  },
-  {
+    "org_id": 12,
     "Region": "Hiraan",
     "Adm1": 20,
     "organization": "DRC",
-    "Individual beneficiaries reached": 264
+    "reached": 264,
+    "count": 1
   },
   {
-    "Region": "Hiraan",
-    "Adm1": 20,
-    "organization": "Other",
-    "Individual beneficiaries reached": 10236
-  },
-  {
+    "org_id": 12,
     "Region": "Lower Juba",
     "Adm1": 28,
-    "organization": "ADESO",
-    "Individual beneficiaries reached": 21000
+    "organization": "DRC",
+    "reached": 330,
+    "count": 1
   },
   {
+    "org_id": 12,
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "DRC",
+    "reached": 408,
+    "count": 1
+  },
+  {
+    "org_id": 12,
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "DRC",
+    "reached": 2700,
+    "count": 1
+  },
+  {
+    "org_id": 12,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "DRC",
+    "reached": 366,
+    "count": 1
+  },
+  {
+    "org_id": 13,
+    "Region": "Awdal",
+    "Adm1": 11,
+    "organization": "FAO",
+    "reached": 11076,
+    "count": 1
+  },
+  {
+    "org_id": 13,
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "FAO",
+    "reached": 10844,
+    "count": 1
+  },
+  {
+    "org_id": 13,
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "FAO",
+    "reached": 7200,
+    "count": 1
+  },
+  {
+    "org_id": 13,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "FAO",
+    "reached": 12252,
+    "count": 1
+  },
+  {
+    "org_id": 13,
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "FAO",
+    "reached": 3600,
+    "count": 1
+  },
+  {
+    "org_id": 13,
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "FAO",
+    "reached": 24510,
+    "count": 1
+  },
+  {
+    "org_id": 13,
     "Region": "Lower Juba",
     "Adm1": 28,
     "organization": "FAO",
-    "Individual beneficiaries reached": 8400
+    "reached": 8400,
+    "count": 1
   },
   {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "DRC",
-    "Individual beneficiaries reached": 330
+    "org_id": 13,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "FAO",
+    "reached": 5700,
+    "count": 1
   },
   {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "Other",
-    "Individual beneficiaries reached": 16621
+    "org_id": 13,
+    "Region": "Toghdeer",
+    "Adm1": 13,
+    "organization": "FAO",
+    "reached": 7200,
+    "count": 1
   },
   {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "Solidarites",
-    "Individual beneficiaries reached": 6330
+    "org_id": 13,
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "FAO",
+    "reached": 3846,
+    "count": 1
   },
   {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 19888
+    "org_id": 14,
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "IOM",
+    "reached": 2840,
+    "count": 1
   },
   {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "ACTED",
-    "Individual beneficiaries reached": 12000
+    "org_id": 15,
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "IRC",
+    "reached": 2220,
+    "count": 1
   },
   {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "CARE",
-    "Individual beneficiaries reached": 5045
+    "org_id": 15,
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "IRC",
+    "reached": 6142,
+    "count": 1
   },
   {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "SIF",
-    "Individual beneficiaries reached": 1715
+    "org_id": 15,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "IRC",
+    "reached": 3600,
+    "count": 1
   },
   {
+    "org_id": 15,
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "IRC",
+    "reached": 1800,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "NRC",
+    "reached": 19000,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "NRC",
+    "reached": 22500,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "NRC",
+    "reached": 22514,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "NRC",
+    "reached": 53400,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "NRC",
+    "reached": 19800,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "NRC",
+    "reached": 16920,
+    "count": 1
+  },
+  {
+    "org_id": 16,
     "Region": "Lower Juba",
     "Adm1": 28,
     "organization": "NRC",
-    "Individual beneficiaries reached": 12780
+    "reached": 12780,
+    "count": 1
   },
   {
+    "org_id": 16,
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "NRC",
+    "reached": 3000,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "NRC",
+    "reached": 6600,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "NRC",
+    "reached": 20539,
+    "count": 1
+  },
+  {
+    "org_id": 16,
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "NRC",
+    "reached": 17561,
+    "count": 1
+  },
+  {
+    "org_id": 17,
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "Other",
+    "reached": 7458,
+    "count": 1
+  },
+  {
+    "org_id": 17,
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "Other",
+    "reached": 24594,
+    "count": 1
+  },
+  {
+    "org_id": 17,
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "Other",
+    "reached": 10236,
+    "count": 1
+  },
+  {
+    "org_id": 17,
     "Region": "Lower Juba",
     "Adm1": 28,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 29532
+    "organization": "Other",
+    "reached": 16621,
+    "count": 1
   },
   {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "WRRS",
-    "Individual beneficiaries reached": 3000
-  },
-  {
-    "Region": "Lower Juba",
-    "Adm1": 28,
-    "organization": "Southern Aid",
-    "Individual beneficiaries reached": 2220
-  },
-  {
-    "Region": "Lower Shabelle",
-    "Adm1": 23,
-    "organization": "Concern",
-    "Individual beneficiaries reached": 9600
-  },
-  {
-    "Region": "Lower Shabelle",
-    "Adm1": 23,
-    "organization": "DRC",
-    "Individual beneficiaries reached": 408
-  },
-  {
-    "Region": "Lower Shabelle",
-    "Adm1": 23,
-    "organization": "Qatar charity",
-    "Individual beneficiaries reached": 225
-  },
-  {
-    "Region": "Lower Shabelle",
-    "Adm1": 23,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 1335
-  },
-  {
+    "org_id": 17,
     "Region": "Lower Shabelle",
     "Adm1": 23,
     "organization": "Other",
-    "Individual beneficiaries reached": 6
+    "reached": 6,
+    "count": 1
   },
   {
-    "Region": "Lower Shabelle",
-    "Adm1": 23,
-    "organization": "Swisso kalmo",
-    "Individual beneficiaries reached": 6000
-  },
-  {
+    "org_id": 17,
     "Region": "Middle Juba",
     "Adm1": 27,
     "organization": "Other",
-    "Individual beneficiaries reached": ""
+    "reached": "",
+    "count": 1
   },
   {
+    "org_id": 18,
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "Qatar charity",
+    "reached": 390,
+    "count": 1
+  },
+  {
+    "org_id": 18,
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "Qatar Charity",
+    "reached": 5463,
+    "count": 1
+  },
+  {
+    "org_id": 18,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "Qatar charity",
+    "reached": 482,
+    "count": 1
+  },
+  {
+    "org_id": 18,
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "Qatar charity",
+    "reached": 291,
+    "count": 1
+  },
+  {
+    "org_id": 18,
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "Qatar charity",
+    "reached": 287,
+    "count": 1
+  },
+  {
+    "org_id": 18,
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "Qatar charity",
+    "reached": 225,
+    "count": 1
+  },
+  {
+    "org_id": 18,
     "Region": "Middle Shabelle",
     "Adm1": 21,
     "organization": "Qatar charity",
-    "Individual beneficiaries reached": 250
+    "reached": 250,
+    "count": 1
   },
   {
-    "Region": "Middle Shabelle",
-    "Adm1": 21,
-    "organization": "WOCCA",
-    "Individual beneficiaries reached": 5165
+    "org_id": 19,
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "RAAS (FAO)",
+    "reached": 6250,
+    "count": 1
   },
   {
+    "org_id": 20,
+    "Region": "Awdal",
+    "Adm1": 11,
+    "organization": "SCI",
+    "reached": 3600,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "SCI",
+    "reached": 11356,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "SCI",
+    "reached": 23712,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "SCI",
+    "reached": 15000,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "SCI",
+    "reached": 7963,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "SCI",
+    "reached": 18660,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "SCI",
+    "reached": 1008,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Sanaag",
+    "Adm1": 15,
+    "organization": "SCI",
+    "reached": 7590,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "SCI",
+    "reached": 6721,
+    "count": 1
+  },
+  {
+    "org_id": 20,
+    "Region": "Toghdeer",
+    "Adm1": 13,
+    "organization": "SCI",
+    "reached": 2100,
+    "count": 1
+  },
+  {
+    "org_id": 21,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "SDIO",
+    "reached": 3000,
+    "count": 1
+  },
+  {
+    "org_id": 22,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "SIF",
+    "reached": 1715,
+    "count": 1
+  },
+  {
+    "org_id": 23,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "Solidarites",
+    "reached": 6330,
+    "count": 1
+  },
+  {
+    "org_id": 24,
     "Region": "Middle Shabelle",
     "Adm1": 21,
     "organization": "SORRDO",
-    "Individual beneficiaries reached": 34704
+    "reached": 34704,
+    "count": 1
   },
   {
+    "org_id": 25,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "Southern Aid",
+    "reached": 2220,
+    "count": 1
+  },
+  {
+    "org_id": 26,
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "SOYID",
+    "reached": 3000,
+    "count": 1
+  },
+  {
+    "org_id": 27,
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "Swisso kalmo",
+    "reached": 6000,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "UNHCR",
+    "reached": 1660,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "UNHCR",
+    "reached": 3894,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "UNHCR",
+    "reached": 3832,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "UNHCR",
+    "reached": 394,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "UNHCR",
+    "reached": 29532,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Mudug",
+    "Adm1": 18,
+    "organization": "UNHCR",
+    "reached": 176,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Nugaal",
+    "Adm1": 17,
+    "organization": "UNHCR",
+    "reached": 9652,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "UNHCR",
+    "reached": 17561,
+    "count": 1
+  },
+  {
+    "org_id": 28,
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "UNHCR",
+    "reached": 4800,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "WFP",
+    "reached": 11609,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Banadir",
+    "Adm1": 22,
+    "organization": "WFP",
+    "reached": 14954,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Bari",
+    "Adm1": 16,
+    "organization": "WFP",
+    "reached": 75715,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Bay",
+    "Adm1": 24,
+    "organization": "WFP",
+    "reached": 20976,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Galgaduud",
+    "Adm1": 19,
+    "organization": "WFP",
+    "reached": 16186,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Gedo",
+    "Adm1": 26,
+    "organization": "WFP",
+    "reached": 91689,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Hiraan",
+    "Adm1": 20,
+    "organization": "WFP",
+    "reached": 10883,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "WFP",
+    "reached": 19888,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Lower Shabelle",
+    "Adm1": 23,
+    "organization": "WFP",
+    "reached": 1335,
+    "count": 1
+  },
+  {
+    "org_id": 29,
     "Region": "Middle Shabelle",
     "Adm1": 21,
     "organization": "WFP",
-    "Individual beneficiaries reached": 7974
+    "reached": 7974,
+    "count": 1
   },
   {
-    "Region": "Mudug",
-    "Adm1": 18,
-    "organization": "IRC",
-    "Individual beneficiaries reached": 6142
-  },
-  {
-    "Region": "Mudug",
-    "Adm1": 18,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 3000
-  },
-  {
-    "Region": "Mudug",
-    "Adm1": 18,
-    "organization": "DRC",
-    "Individual beneficiaries reached": 2700
-  },
-  {
+    "org_id": 29,
     "Region": "Mudug",
     "Adm1": 18,
     "organization": "WFP",
-    "Individual beneficiaries reached": 50319
+    "reached": 50319,
+    "count": 1
   },
   {
-    "Region": "Mudug",
-    "Adm1": 18,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 176
-  },
-  {
-    "Region": "Mudug",
-    "Adm1": 18,
-    "organization": "ADESO",
-    "Individual beneficiaries reached": 28105
-  },
-  {
+    "org_id": 29,
     "Region": "Nugaal",
     "Adm1": 17,
     "organization": "WFP",
-    "Individual beneficiaries reached": 22610
+    "reached": 22610,
+    "count": 1
   },
   {
-    "Region": "Nugaal",
-    "Adm1": 17,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 1008
-  },
-  {
-    "Region": "Nugaal",
-    "Adm1": 17,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 6600
-  },
-  {
-    "Region": "Nugaal",
-    "Adm1": 17,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 9652
-  },
-  {
-    "Region": "Nugaal",
-    "Adm1": 17,
-    "organization": "ACF",
-    "Individual beneficiaries reached": 5700
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "ADESO",
-    "Individual beneficiaries reached": 8827
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "ACTED",
-    "Individual beneficiaries reached": 15000
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "CARE",
-    "Individual beneficiaries reached": 530
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 5700
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "APD",
-    "Individual beneficiaries reached": 1200
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 20539
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "DRC",
-    "Individual beneficiaries reached": 366
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "IRC",
-    "Individual beneficiaries reached": 3600
-  },
-  {
-    "Region": "Sanaag",
-    "Adm1": 15,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 7590
-  },
-  {
+    "org_id": 29,
     "Region": "Sanaag",
     "Adm1": 15,
     "organization": "WFP",
-    "Individual beneficiaries reached": 44841
+    "reached": 44841,
+    "count": 1
   },
   {
+    "org_id": 29,
+    "Region": "Sool",
+    "Adm1": 14,
+    "organization": "WFP",
+    "reached": 47179,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Toghdeer",
+    "Adm1": 13,
+    "organization": "WFP",
+    "reached": 13032,
+    "count": 1
+  },
+  {
+    "org_id": 29,
+    "Region": "Woqooyi Galbeed",
+    "Adm1": 12,
+    "organization": "WFP",
+    "reached": 8342,
+    "count": 1
+  },
+  {
+    "org_id": 30,
+    "Region": "Middle Shabelle",
+    "Adm1": 21,
+    "organization": "WOCCA",
+    "reached": 5165,
+    "count": 1
+  },
+  {
+    "org_id": 31,
     "Region": "Sanaag",
     "Adm1": 15,
     "organization": "World Concern",
-    "Individual beneficiaries reached": 6690
+    "reached": 6690,
+    "count": 1
   },
   {
-    "Region": "Sool",
-    "Adm1": 14,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 17561
-  },
-  {
-    "Region": "Sool",
-    "Adm1": 14,
-    "organization": "CARE",
-    "Individual beneficiaries reached": 840
-  },
-  {
-    "Region": "Sool",
-    "Adm1": 14,
-    "organization": "NRC",
-    "Individual beneficiaries reached": 17561
-  },
-  {
-    "Region": "Sool",
-    "Adm1": 14,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 6721
-  },
-  {
+    "org_id": 31,
     "Region": "Sool",
     "Adm1": 14,
     "organization": "World Concern",
-    "Individual beneficiaries reached": 2730
+    "reached": 2730,
+    "count": 1
   },
   {
-    "Region": "Sool",
-    "Adm1": 14,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 47179
-  },
-  {
-    "Region": "Sool",
-    "Adm1": 14,
-    "organization": "IRC",
-    "Individual beneficiaries reached": 1800
-  },
-  {
-    "Region": "Toghdeer",
-    "Adm1": 13,
-    "organization": "Concern",
-    "Individual beneficiaries reached": 3300
-  },
-  {
-    "Region": "Toghdeer",
-    "Adm1": 13,
-    "organization": "SCI",
-    "Individual beneficiaries reached": 2100
-  },
-  {
-    "Region": "Toghdeer",
-    "Adm1": 13,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 7200
-  },
-  {
-    "Region": "Toghdeer",
-    "Adm1": 13,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 13032
-  },
-  {
-    "Region": "Woqooyi Galbeed",
-    "Adm1": 12,
-    "organization": "Concern",
-    "Individual beneficiaries reached": 1200
-  },
-  {
-    "Region": "Woqooyi Galbeed",
-    "Adm1": 12,
-    "organization": "APD",
-    "Individual beneficiaries reached": 3388
-  },
-  {
-    "Region": "Woqooyi Galbeed",
-    "Adm1": 12,
-    "organization": "UNHCR",
-    "Individual beneficiaries reached": 4800
-  },
-  {
+    "org_id": 32,
     "Region": "Woqooyi Galbeed",
     "Adm1": 12,
     "organization": "World Relief",
-    "Individual beneficiaries reached": 600
+    "reached": 600,
+    "count": 1
   },
   {
-    "Region": "Woqooyi Galbeed",
-    "Adm1": 12,
-    "organization": "FAO",
-    "Individual beneficiaries reached": 3846
+    "org_id": 32,
+    "Region": "Awdal",
+    "Adm1": 11,
+    "organization": "World Vision",
+    "reached": 10866,
+    "count": 1
   },
   {
-    "Region": "Woqooyi Galbeed",
-    "Adm1": 12,
-    "organization": "WFP",
-    "Individual beneficiaries reached": 8342
+    "org_id": 32,
+    "Region": "Bakool",
+    "Adm1": 25,
+    "organization": "World Vision",
+    "reached": 4800,
+    "count": 1
+  },
+  {
+    "org_id": 33,
+    "Region": "Lower Juba",
+    "Adm1": 28,
+    "organization": "WRRS",
+    "reached": 3000,
+    "count": 1
   }
 ]
