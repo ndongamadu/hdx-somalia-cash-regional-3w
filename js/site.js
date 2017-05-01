@@ -26,7 +26,7 @@ function generate3WComponent(config,data,geom){
     $('#description').html(config.description);
 
     var whoChart = dc.rowChart('#hdx-3W-who');
-    var whatChart = dc.bubbleChart('#hdx-3W-what');
+    // var whatChart = dc.bubbleChart('#hdx-3W-what');
     var whereChart = dc.leafletChoroplethChart('#hdx-3W-where');
 
     var cf = crossfilter(data);
@@ -68,36 +68,36 @@ function generate3WComponent(config,data,geom){
             .colorAccessor(function(d, i){return 0;})
             .xAxis().ticks(5);
 
-    whatChart.width($('#hxd-3W-what').width()).height(400)
-            .dimension(whatDimension)
-            .group(whatGroup)
-            .colors([config.color])
-            .colorAccessor(function(d, i){return 0;})
-            .data(function(group) {
-                return group.top(15);
-            })
-            .valueAccessor(function (d){
-              return d.value.totalReached;
-            })
-            .transitionDuration(1500)
-            .radiusValueAccessor(function (p) {
-            return p.value.nb;
-            })
-            .x(d3.scale.ordinal().domain([1,50]))
-            .xUnits(dc.units.ordinal)
-            // .y(d3.scale.linear().domain([0, 1428215]))
-            .yAxisPadding(200)
-            .r(d3.scale.linear().domain([0, 50]))
-            .elasticY(true)
-            .elasticX(true)
-            .renderHorizontalGridLines(true)
-            .renderTitle(true)
-            .title(function (p) {
-              return "Total beneficiaries reached: " +p.value.totalReached;
-            })
-            .yAxis().tickFormat(function(v){
-              return v/1000 +"K";
-            });
+    // whatChart.width($('#hxd-3W-what').width()).height(400)
+    //         .dimension(whatDimension)
+    //         .group(whatGroup)
+    //         .colors([config.color])
+    //         .colorAccessor(function(d, i){return 0;})
+    //         .data(function(group) {
+    //             return group.top(15);
+    //         })
+    //         .valueAccessor(function (d){
+    //           return d.value.totalReached;
+    //         })
+    //         .transitionDuration(1500)
+    //         .radiusValueAccessor(function (p) {
+    //         return p.value.nb;
+    //         })
+    //         .x(d3.scale.ordinal().domain([1,50]))
+    //         .xUnits(dc.units.ordinal)
+    //         // .y(d3.scale.linear().domain([0, 1428215]))
+    //         .yAxisPadding(200)
+    //         .r(d3.scale.linear().domain([0, 50]))
+    //         .elasticY(true)
+    //         .elasticX(true)
+    //         .renderHorizontalGridLines(true)
+    //         .renderTitle(true)
+    //         .title(function (p) {
+    //           return "Total beneficiaries reached: " +p.value.totalReached;
+    //         })
+    //         .yAxis().tickFormat(function(v){
+    //           return v/1000 +"K";
+    //         });
 
 
 
