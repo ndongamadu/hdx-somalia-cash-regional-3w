@@ -11,8 +11,8 @@ var config = {
     joinAttribute:"REG_CODE",
     nameAttribute:"REG_NAME",
     color:"#03a9f4",
-    whobubble:"org_id"
-};
+    reached:"reached"
+  };
 
 //function to generate the 3W component
 //data is the whole 3W Excel data set
@@ -26,32 +26,17 @@ function generate3WComponent(config,data,geom){
     $('#description').html(config.description);
 
     var whoChart = dc.rowChart('#hdx-3W-who');
-    var whatChart = dc.bubbleChart('#hdx-3W-what');
+    // var whatChart = dc.bubbleChart('#hdx-3W-what');
     var whereChart = dc.leafletChoroplethChart('#hdx-3W-where');
 
     var cf = crossfilter(data);
 
     var whoDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
-    var whatDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
+    // var whatDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
 
-    var whoGroup = whoDimension.group();
-    var whatGroup = whatDimension.group().reduce(
-      function (p, v) {
-          p.totalReached += +v["reached"];
-          p.nb += +v.count;
-          return p;
-      },
-      function (p, v) {
-          p.totalReached -= +v["reached"];
-          p.nb -= +v.count;
-          if (p.nb < 0) p.nb = 0;
-          return p;
-      },
-      function () {
-          return {totalReached: 0, nb:0}
-      }
-  );
+    var whoGroup = whoDimension.group().reduceSum(function (d){ return d[config.reached]; });
+
 
     var whereGroup = whereDimension.group();
     var all = cf.groupAll();
@@ -66,6 +51,10 @@ function generate3WComponent(config,data,geom){
             .labelOffsetY(13)
             .colors([config.color])
             .colorAccessor(function(d, i){return 0;})
+            .renderTitle(true)
+            .title(function(d){
+              return "Total beneficiaries : " +d.value;
+            })
             .xAxis().ticks(5);
 
     // whatChart.width($('#hxd-3W-what').width()).height(400)
