@@ -2,7 +2,7 @@
 
 var config = {
     title:"Somalia Consolidated Cash 3W",
-    description:"Who is doing What, Where in cash in Somalia - March 26, 2017",
+    description:"Who is doing What, Where in cash in Somalia - March 31, 2017",
     data:"data/som-cash-new.json",
     whoFieldName:"organization",
     whatFieldName:"rectified",
