@@ -1,0 +1,752 @@
+[
+  {
+    "region": "Awdal",
+    "pcode": 11,
+    "organization": "Concern",
+    "reached": 2400
+  },
+  {
+    "region": "Awdal",
+    "pcode": 11,
+    "organization": "World Vision",
+    "reached": 10866
+  },
+  {
+    "region": "Awdal",
+    "pcode": 11,
+    "organization": "WFP",
+    "reached": 0
+  },
+  {
+    "region": "Awdal",
+    "pcode": 11,
+    "organization": "FAO",
+    "reached": 9480
+  },
+  {
+    "region": "Awdal",
+    "pcode": 11,
+    "organization": "SCI",
+    "reached": 3600
+  },
+  {
+    "region": "Bakool",
+    "pcode": 25,
+    "organization": "NRC",
+    "reached": 19000
+  },
+  {
+    "region": "Bakool",
+    "pcode": 25,
+    "organization": "ACF",
+    "reached": 46750
+  },
+  {
+    "region": "Bakool",
+    "pcode": 25,
+    "organization": "SOYID",
+    "reached": 3000
+  },
+  {
+    "region": "Bakool",
+    "pcode": 25,
+    "organization": "World Vision",
+    "reached": 4800
+  },
+  {
+    "region": "Bakool",
+    "pcode": 25,
+    "organization": "WFP",
+    "reached": 11609
+  },
+  {
+    "region": "Bakool",
+    "pcode": 25,
+    "organization": "FAO",
+    "reached": 10844
+  },
+  {
+    "region": "Bakool",
+    "pcode": 25,
+    "organization": "Qatar charity",
+    "reached": 390
+  },
+  {
+    "region": "Bakool",
+    "pcode": 25,
+    "organization": "OTHER",
+    "reached": 7458
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "NRC",
+    "reached": 22500
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "FAO",
+    "reached": 0
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "ACF",
+    "reached": 18802
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "Concern",
+    "reached": 20160
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "DKH",
+    "reached": 12720
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "WFP",
+    "reached": 14954
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "UNHCR",
+    "reached": 1660
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "SCI",
+    "reached": 11356
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "Qatar Charity",
+    "reached": 5463
+  },
+  {
+    "region": "Banadir",
+    "pcode": 22,
+    "organization": "IOM",
+    "reached": 2840
+  },
+  {
+    "region": "Bari",
+    "pcode": 16,
+    "organization": "NRC",
+    "reached": 22514
+  },
+  {
+    "region": "Bari",
+    "pcode": 16,
+    "organization": "SCI",
+    "reached": 23712
+  },
+  {
+    "region": "Bari",
+    "pcode": 16,
+    "organization": "ADA (FAO)",
+    "reached": 60
+  },
+  {
+    "region": "Bari",
+    "pcode": 16,
+    "organization": "CARE",
+    "reached": 530
+  },
+  {
+    "region": "Bari",
+    "pcode": 16,
+    "organization": "IRC",
+    "reached": 2220
+  },
+  {
+    "region": "Bari",
+    "pcode": 16,
+    "organization": "FAO",
+    "reached": 13620
+  },
+  {
+    "region": "Bari",
+    "pcode": 16,
+    "organization": "WFP",
+    "reached": 75715
+  },
+  {
+    "region": "Bari",
+    "pcode": 16,
+    "organization": "UNHCR",
+    "reached": 3894
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "NRC",
+    "reached": 53400
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "Concern",
+    "reached": 33342
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "UNHCR",
+    "reached": 3832
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "ACTED",
+    "reached": 10962
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "SDIO",
+    "reached": 3000
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "WFP",
+    "reached": 20976
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "FAO",
+    "reached": 12288
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "SCI",
+    "reached": 15000
+  },
+  {
+    "region": "Bay",
+    "pcode": 24,
+    "organization": "Qatar charity",
+    "reached": 482
+  },
+  {
+    "region": "Galgaduud",
+    "pcode": 19,
+    "organization": "NRC",
+    "reached": 19800
+  },
+  {
+    "region": "Galgaduud",
+    "pcode": 19,
+    "organization": "WFP",
+    "reached": 16186
+  },
+  {
+    "region": "Galgaduud",
+    "pcode": 19,
+    "organization": "Qatar charity",
+    "reached": 291
+  },
+  {
+    "region": "Galgaduud",
+    "pcode": 19,
+    "organization": "Agro-pastoral charity",
+    "reached": 2280
+  },
+  {
+    "region": "Galgaduud",
+    "pcode": 19,
+    "organization": "FAO",
+    "reached": 0
+  },
+  {
+    "region": "Galgaduud",
+    "pcode": 19,
+    "organization": "SCI",
+    "reached": 7963
+  },
+  {
+    "region": "Gedo",
+    "pcode": 26,
+    "organization": "ACTED",
+    "reached": 1800
+  },
+  {
+    "region": "Gedo",
+    "pcode": 26,
+    "organization": "OTHER",
+    "reached": 24594
+  },
+  {
+    "region": "Gedo",
+    "pcode": 26,
+    "organization": "Concern",
+    "reached": 16296
+  },
+  {
+    "region": "Gedo",
+    "pcode": 26,
+    "organization": "WFP",
+    "reached": 91689
+  },
+  {
+    "region": "Gedo",
+    "pcode": 26,
+    "organization": "COOPI",
+    "reached": 1500
+  },
+  {
+    "region": "Gedo",
+    "pcode": 26,
+    "organization": "NRC",
+    "reached": 16920
+  },
+  {
+    "region": "Gedo",
+    "pcode": 26,
+    "organization": "RAAS (FAO)",
+    "reached": 6250
+  },
+  {
+    "region": "Gedo",
+    "pcode": 26,
+    "organization": "UNHCR",
+    "reached": 394
+  },
+  {
+    "region": "Hiraan",
+    "pcode": 20,
+    "organization": "FAO",
+    "reached": 24612
+  },
+  {
+    "region": "Hiraan",
+    "pcode": 20,
+    "organization": "Qatar charity",
+    "reached": 287
+  },
+  {
+    "region": "Hiraan",
+    "pcode": 20,
+    "organization": "Agency for Peace and Development",
+    "reached": 1750
+  },
+  {
+    "region": "Hiraan",
+    "pcode": 20,
+    "organization": "SCI",
+    "reached": 18660
+  },
+  {
+    "region": "Hiraan",
+    "pcode": 20,
+    "organization": "DKH",
+    "reached": 23100
+  },
+  {
+    "region": "Hiraan",
+    "pcode": 20,
+    "organization": "WFP",
+    "reached": 10883
+  },
+  {
+    "region": "Hiraan",
+    "pcode": 20,
+    "organization": "DRC",
+    "reached": 264
+  },
+  {
+    "region": "Hiraan",
+    "pcode": 20,
+    "organization": "OTHER",
+    "reached": 10236
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "ADESO",
+    "reached": 21000
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "FAO",
+    "reached": 0
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "DRC",
+    "reached": 330
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "OTHER",
+    "reached": 16621
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "Solidarites",
+    "reached": 6330
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "WFP",
+    "reached": 19888
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "ACTED",
+    "reached": 12000
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "CARE",
+    "reached": 5045
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "SIF",
+    "reached": 1715
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "NRC",
+    "reached": 12780
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "UNHCR",
+    "reached": 29532
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "WRRS",
+    "reached": 3000
+  },
+  {
+    "region": "Lower Juba",
+    "pcode": 28,
+    "organization": "Southern Aid",
+    "reached": 2220
+  },
+  {
+    "region": "Lower Shabelle",
+    "pcode": 23,
+    "organization": "Concern",
+    "reached": 9600
+  },
+  {
+    "region": "Lower Shabelle",
+    "pcode": 23,
+    "organization": "DRC",
+    "reached": 408
+  },
+  {
+    "region": "Lower Shabelle",
+    "pcode": 23,
+    "organization": "Qatar charity",
+    "reached": 225
+  },
+  {
+    "region": "Lower Shabelle",
+    "pcode": 23,
+    "organization": "WFP",
+    "reached": 1335
+  },
+  {
+    "region": "Lower Shabelle",
+    "pcode": 23,
+    "organization": "OTHER",
+    "reached": 6
+  },
+  {
+    "region": "Lower Shabelle",
+    "pcode": 23,
+    "organization": "Swisso kalmo",
+    "reached": 6000
+  },
+  {
+    "region": "Middle Juba",
+    "pcode": 27,
+    "organization": "OTHER",
+    "reached": ""
+  },
+  {
+    "region": "Middle Shabelle",
+    "pcode": 21,
+    "organization": "Qatar charity",
+    "reached": 250
+  },
+  {
+    "region": "Middle Shabelle",
+    "pcode": 21,
+    "organization": "WOCCA",
+    "reached": 5165
+  },
+  {
+    "region": "Middle Shabelle",
+    "pcode": 21,
+    "organization": "SORRDO",
+    "reached": 34704
+  },
+  {
+    "region": "Middle Shabelle",
+    "pcode": 21,
+    "organization": "WFP",
+    "reached": 7974
+  },
+  {
+    "region": "Mudug",
+    "pcode": 18,
+    "organization": "IRC",
+    "reached": 6142
+  },
+  {
+    "region": "Mudug",
+    "pcode": 18,
+    "organization": "NRC",
+    "reached": 3000
+  },
+  {
+    "region": "Mudug",
+    "pcode": 18,
+    "organization": "DRC",
+    "reached": 2700
+  },
+  {
+    "region": "Mudug",
+    "pcode": 18,
+    "organization": "WFP",
+    "reached": 50319
+  },
+  {
+    "region": "Mudug",
+    "pcode": 18,
+    "organization": "UNHCR",
+    "reached": 176
+  },
+  {
+    "region": "Mudug",
+    "pcode": 18,
+    "organization": "ADESO",
+    "reached": 28105
+  },
+  {
+    "region": "Nugaal",
+    "pcode": 17,
+    "organization": "WFP",
+    "reached": 22610
+  },
+  {
+    "region": "Nugaal",
+    "pcode": 17,
+    "organization": "SCI",
+    "reached": 1008
+  },
+  {
+    "region": "Nugaal",
+    "pcode": 17,
+    "organization": "NRC",
+    "reached": 6600
+  },
+  {
+    "region": "Nugaal",
+    "pcode": 17,
+    "organization": "UNHCR",
+    "reached": 9652
+  },
+  {
+    "region": "Nugaal",
+    "pcode": 17,
+    "organization": "ACF",
+    "reached": 5700
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "ADESO",
+    "reached": 8827
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "ACTED",
+    "reached": 15000
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "CARE",
+    "reached": 530
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "FAO",
+    "reached": 5700
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "APD",
+    "reached": 1200
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "NRC",
+    "reached": 20539
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "DRC",
+    "reached": 366
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "IRC",
+    "reached": 3600
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "SCI",
+    "reached": 7590
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "WFP",
+    "reached": 44841
+  },
+  {
+    "region": "Sanaag",
+    "pcode": 15,
+    "organization": "World Concern",
+    "reached": 6690
+  },
+  {
+    "region": "Sool",
+    "pcode": 14,
+    "organization": "UNHCR",
+    "reached": 17561
+  },
+  {
+    "region": "Sool",
+    "pcode": 14,
+    "organization": "CARE",
+    "reached": 840
+  },
+  {
+    "region": "Sool",
+    "pcode": 14,
+    "organization": "NRC",
+    "reached": 17561
+  },
+  {
+    "region": "Sool",
+    "pcode": 14,
+    "organization": "SCI",
+    "reached": 6721
+  },
+  {
+    "region": "Sool",
+    "pcode": 14,
+    "organization": "World Concern",
+    "reached": 2730
+  },
+  {
+    "region": "Sool",
+    "pcode": 14,
+    "organization": "WFP",
+    "reached": 47179
+  },
+  {
+    "region": "Sool",
+    "pcode": 14,
+    "organization": "IRC",
+    "reached": 1800
+  },
+  {
+    "region": "Toghdeer",
+    "pcode": 13,
+    "organization": "Concern",
+    "reached": 3300
+  },
+  {
+    "region": "Toghdeer",
+    "pcode": 13,
+    "organization": "SCI",
+    "reached": 2100
+  },
+  {
+    "region": "Toghdeer",
+    "pcode": 13,
+    "organization": "FAO",
+    "reached": 0
+  },
+  {
+    "region": "Toghdeer",
+    "pcode": 13,
+    "organization": "WFP",
+    "reached": 13032
+  },
+  {
+    "region": "Woqooyi Galbeed",
+    "pcode": 12,
+    "organization": "Concern",
+    "reached": 1200
+  },
+  {
+    "region": "Woqooyi Galbeed",
+    "pcode": 12,
+    "organization": "APD",
+    "reached": 3388
+  },
+  {
+    "region": "Woqooyi Galbeed",
+    "pcode": 12,
+    "organization": "UNHCR",
+    "reached": 4800
+  },
+  {
+    "region": "Woqooyi Galbeed",
+    "pcode": 12,
+    "organization": "World Relief",
+    "reached": 600
+  },
+  {
+    "region": "Woqooyi Galbeed",
+    "pcode": 12,
+    "organization": "FAO",
+    "reached": 4200
+  },
+  {
+    "region": "Woqooyi Galbeed",
+    "pcode": 12,
+    "organization": "WFP",
+    "reached": 8342
+  }
+]

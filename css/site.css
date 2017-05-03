@@ -1,18 +1,27 @@
+.dc-chart g.row title {
+    fill: black;
+    /*font-size:0.8em;*/
+    font-size:1.0em;
+
+}
+
 .dc-chart g.row text {
     fill: black;
-    font-size:0.8em;
+    /*font-size:0.8em;*/
+    font-size:1.0em;
+
 }
 
 .dc-chart .pie-slice {
     fill:black;
 }
 
-.x-axis-label{
-    font-size:0.8em;
-}
+/*.x-axis-label{
+    font-size:1.0em;
+}*/
 
 #hdx-3W-where {
-    height:360px;
+    height:450px;
     width:100%;
 }
 

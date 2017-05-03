@@ -3,15 +3,15 @@
 var config = {
     title:"Somalia Consolidated Cash 3W",
     description:"Who is doing What, Where in cash in Somalia - March 26, 2017",
-    data:"data/som-cash.json",
+    data:"data/som-cash-new.json",
     whoFieldName:"organization",
     whatFieldName:"rectified",
-    whereFieldName:"Adm1",
+    whereFieldName:"pcode",
     geo:"data/som-adm1.geojson",
     joinAttribute:"REG_CODE",
     nameAttribute:"REG_NAME",
     color:"#03a9f4",
-    reached:"reached"
+    reached: "reached"
   };
 
 //function to generate the 3W component
@@ -41,21 +41,21 @@ function generate3WComponent(config,data,geom){
     var whereGroup = whereDimension.group();
     var all = cf.groupAll();
 
-    whoChart.width($('#hxd-3W-who').width()).height(400)
+    whoChart.width($('#hxd-3W-who').width()).height(485)
             .dimension(whoDimension)
             .group(whoGroup)
             .elasticX(true)
             .data(function(group) {
                 return group.top(15);
             })
-            .labelOffsetY(13)
+            .labelOffsetY(15)
             .colors([config.color])
             .colorAccessor(function(d, i){return 0;})
             .renderTitle(true)
             .title(function(d){
               return "Total beneficiaries : " +d.value;
             })
-            .xAxis().ticks(5);
+            .xAxis().ticks(8);
 
     // whatChart.width($('#hxd-3W-what').width()).height(400)
     //         .dimension(whatDimension)
@@ -95,7 +95,7 @@ function generate3WComponent(config,data,geom){
             .dimension(cf)
             .group(all);
 
-    whereChart.width($('#hxd-3W-where').width()).height(360)
+    whereChart.width($('#hxd-3W-where').width()).height(475)
             .dimension(whereDimension)
             .group(whereGroup)
             .center([0,0])
@@ -129,15 +129,6 @@ function generate3WComponent(config,data,geom){
         .attr('class', 'x-axis-label-todrop')
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-who').width()/2)
-        .attr('y', 400)
-        // .text('Activities');
-
-    var g = d3.selectAll('#hdx-3W-what').select('svg').append('g');
-
-    g.append('text')
-        .attr('class', 'x-axis-label')
-        .attr('text-anchor', 'middle')
-        .attr('x', $('#hdx-3W-what').width()/2)
         .attr('y', 400)
         // .text('Activities');
 
