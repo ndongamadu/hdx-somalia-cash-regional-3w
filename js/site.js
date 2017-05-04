@@ -1,8 +1,8 @@
 //configuration object
 
 var config = {
-    title:"Somalia Consolidated Cash 3W",
-    description:"Who is doing What, Where in cash in Somalia - March 31, 2017",
+    title:"Somalia Consolidated Cash Programme",
+    description:"Who is doing cash interventions in Somalia.",
     data:"data/som-cash-new.json",
     whoFieldName:"organization",
     whatFieldName:"rectified",
